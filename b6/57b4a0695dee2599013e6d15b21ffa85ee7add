@@ -1,0 +1,25 @@
+plugins/add-attachments/index.ts
+  s_b1690d31ba6595::t_88c0806b4abeb9 1-295
+plugins/add-attachments/manifest.json
+  s_b1690d31ba6595::t_e32e2d62de3fd7 1-20
+plugins/add-attachments/tsconfig.json
+  s_b1690d31ba6595::t_5da9724efbc681 1-3
+plugins/add-attachments/upload.ts
+  s_b1690d31ba6595::t_4d6398145e2cb2 1-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "b657b4a0695dee2599013e6d15b21ffa85ee7add",
+  "prompts": {},
+  "sessions": {
+    "s_b1690d31ba6595": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18049-8a3f-7711-b92d-471a17ed1093",
+        "model": "gpt-6.1-sol"
+      },
+      "human_author": "Wolfkid200444 <32025746+Wolfkid200444@users.noreply.github.com>"
+    }
+  }
+}
